@@ -12,7 +12,7 @@ PDF Grade Analyzer is a Python application designed to read and analyze grade ta
 
 **-** Modular structure for easy customization and extension
 
-### INSTALLATION
+### Installation
 **1.** Clone the repository
 ```bash
 git clone https://github.com/husnabosun/pdf-grade-analyzer.git
@@ -24,7 +24,7 @@ cd pdf-grade-analyzer
 pip install -r requirements.txt
 ```
 
-### USAGE
+### Usage
 **1.** Instead of given pdf in the repo , add your own pdf file. Change the line 126 in husna.py.
 ```bash
 doc = pymupdf.open("grades_multiple_col.pdf")
