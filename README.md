@@ -8,6 +8,8 @@ PDF Grade Analyzer is a Python application designed to read and analyze grade ta
 
 **-** Calculates averages, letter grade ranges, and other statistics
 
+**-** Sort and search your results by student number
+
 **-** Simple and fast to use
 
 **-** Modular structure for easy customization and extension
