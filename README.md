@@ -14,6 +14,13 @@ PDF Grade Analyzer is a Python application designed to read and analyze grade ta
 
 **-** Modular structure for easy customization and extension
 
+### Technology
+**-** Python
+
+**-** PyMuPDF for PDF processing
+
+**-** pandas for data manipulation
+
 ### Installation
 **1.** Clone the repository
 ```bash
